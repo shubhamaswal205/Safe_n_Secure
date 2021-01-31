@@ -9,4 +9,4 @@ contact list.
 ## ScreenShots
 
 ![alt text](https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss01.jpg?raw=true)
-<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss01.jpg" width="500" height="500"/>
+<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss01.jpg" width="500" height="800"/>
