@@ -11,11 +11,14 @@ contact list.
 <p float="left">
 <img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss01.jpg" width="300" height="500"/>
 <img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss02.jpg" width="300" height="500"/>
+  </p>
+  
+  <p float="left">
 <img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss03.jpg" width="300" height="500"/>
+<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss04.jpg" width="300" height="500"/>
  </p>
  
  <p float="left">
-<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss04.jpg" width="300" height="500"/>
 <img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss05.jpg" width="300" height="500"/>
 <img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss06.jpg" width="300" height="500"/>
   </p>
