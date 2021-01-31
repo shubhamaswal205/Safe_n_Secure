@@ -8,5 +8,12 @@ contact list.
 
 ## ScreenShots
 
-![alt text](https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss01.jpg?raw=true)
 <img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss01.jpg" width="400" height="650"/>
+<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss02.jpg" width="400" height="650"/>
+<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss03.jpg" width="400" height="650"/>
+<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss04.jpg" width="400" height="650"/>
+<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss05.jpg" width="400" height="650"/>
+<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss06.jpg" width="400" height="650"/>
+<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss07.jpg" width="400" height="650"/>
+<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss08.jpg" width="400" height="650"/>
+
