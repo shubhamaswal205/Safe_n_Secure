@@ -23,8 +23,7 @@ contact list.
 <img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss06.jpg" width="300" height="500"/>
   </p>
   
- <p float="left">
-<img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss07.jpg" width="300" height="500"/>
+ <p>
 <img src="https://github.com/shubhamaswal205/Safe_n_Secure/blob/main/Screenshots/ss08.jpg" width="300" height="500"/>
  </p>
 
